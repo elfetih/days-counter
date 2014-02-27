@@ -2,7 +2,7 @@
 
 void main()
 {
-int;
+int d1,m1,y1,d2,m2,y2;
 float;
 clrscr();
 
@@ -20,7 +20,8 @@ scanf("%d", &d2);
 printf("/nenter month number :");
 scanf("%d, &m2");
 printf("/nenter year :");
-scanf("%d", &y1);
+scanf("%d", &y2);
+
 
 
 
